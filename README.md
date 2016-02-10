@@ -1,4 +1,4 @@
-##tal_kafka
+##tal_nginx
 
 A wrapper cookbook to install nginx using the community cookbooks.
 
